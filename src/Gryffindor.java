@@ -3,7 +3,7 @@ public class Gryffindor extends Alumno {
 
 	public Gryffindor(String nombre, String apellidos, int edad, String asignaturaFavorita) {
 		super(nombre, apellidos, edad, asignaturaFavorita);
-		this.deberes = "Por  supuesto que los  he  hecho!!!";
+		this.deberes = "Somos los buenos";
 		this.especial = especialAnimal();
 
 	}
